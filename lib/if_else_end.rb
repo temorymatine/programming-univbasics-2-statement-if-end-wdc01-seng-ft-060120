@@ -1,8 +1,5 @@
-
-number = 2 
-if (number=2)
-  puts "even"
-else 
-  puts("odd ")
+if TRUE
+  puts "Even!"
+else
+  puts "Odd!"
 end
-puts ("blech")
